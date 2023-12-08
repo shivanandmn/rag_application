@@ -1,0 +1,5 @@
+llama-index
+weaviate
+sentence-transformer
+transformers
+python-telegram-bot

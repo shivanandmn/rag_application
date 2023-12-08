@@ -1,0 +1,5 @@
+.env
+rag_application.egg-info
+.vscode
+*/__pycache__
+*/**/__pycache__
